@@ -1,0 +1,48 @@
+.container {
+    max-width: 900px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.form {
+    display: grid;
+    grid-template-columns: 1fr auto;
+    margin: 10px;
+}
+
+.form__input{
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+.form__button{
+    padding: 10px;
+    background: teal;
+    color: white;
+}
+
+.form__button:active {
+    transform: scale(1.01);
+}
+
+.section {
+    margin: 10px 0;
+    background: white;
+}
+
+.section {
+    margin: 10px 0;
+    background: white;
+    box-shadow: 0 0 5px #ddd;
+}
+
+.section__header {
+    font-size: 20px;
+    padding: 20px;
+    margin: 0;
+    border-bottom: 1px solid #ddd;
+}
+
+.section__body {
+    padding: 20px;
+}
