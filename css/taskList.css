@@ -1,0 +1,29 @@
+.tasksList {
+    margin: 0;
+    padding: 0;
+}
+
+.tasksList__taskItem {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    grid-gap: 10px;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.tasksList__taskButton {
+    color: rgb(255, 255, 255);
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    background: #ec293c;
+}
+
+.tasksList__taskButton--done {
+    background: #1a7b1e;
+}
+
+.tasksList__taskContent--done {
+    text-decoration: line-through;
+}
