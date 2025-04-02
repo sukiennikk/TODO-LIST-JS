@@ -16,6 +16,7 @@
 }
 
 .form__button{
+    border: 0;
     padding: 10px;
     background: teal;
     color: white;
