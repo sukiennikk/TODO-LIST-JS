@@ -2,7 +2,7 @@
 
 ### Opis
 
-To prosta aplikacja internetowa, która pomaga użytkownikom śledzić swoje zadania. Użytkownicy mogą dodawać zadania do zrobienia i oznaczać je ukończonymi.
+Prosta aplikacja internetowa, która pomaga użytkownikom śledzić swoje zadania. Użytkownicy mogą dodawać zadania do zrobienia i skreślać je z listy, gdy są ukończone.
 
 ### Funkcje
 
