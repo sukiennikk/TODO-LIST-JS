@@ -18,7 +18,16 @@
     width: 30px;
     height: 30px;
     padding: 0;
-    background: #ec293c;
+    background: #1a7b1e;
+}
+
+.tasksList__taskButton--remove {
+    border: 0;
+    color: rgb(255, 255, 255);
+    width: 30px;
+    height: 30px;
+    padding: 0;
+    background: #ff0000;
 }
 
 .tasksList__taskButton--done {
