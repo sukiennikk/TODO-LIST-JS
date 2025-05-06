@@ -37,3 +37,19 @@
 .tasksList__taskContent--done {
     text-decoration: line-through;
 }
+
+.task-list__buttons {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-bottom: 10px;
+  }
+
+  .task-list__button {
+    padding: 8px 16px;
+    font-size: 14px;
+    border: none;
+    border-radius: 4px;
+    background-color: teal;
+    color: #fff;
+  }
