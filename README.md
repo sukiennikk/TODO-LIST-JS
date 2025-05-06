@@ -17,4 +17,8 @@ Prosta aplikacja internetowa, która pomaga użytkownikom śledzić swoje zadani
 - JavaScript
 
 
+### Demo
+
+https://sukiennikk.github.io/TODO-LIST-JS/
+
 
