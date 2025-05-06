@@ -9,6 +9,8 @@ Prosta aplikacja internetowa, która pomaga użytkownikom śledzić swoje zadani
 - Dodawanie nowych zadań
 - Usuwanie zadań
 - Oznaczanie zadań jako ukończone
+- Ukrywanie ukończonych zadań
+- Ukańczanie wszystkich zadań
 
 ### Wykorzystane technologie
 
